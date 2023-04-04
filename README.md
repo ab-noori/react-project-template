@@ -55,7 +55,7 @@
 
 # 📖 [React-Project-Template] <a name="about-project"></a>
 
-> **[React-Project-Template]** Environmental setup and tools needed to develop a React application.
+> **[React-Project-Template]** is an environmental setup and tools needed to develop a React application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -108,9 +108,9 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-    npx create-react-app my-app
-    cd my-app
-    npm start
+       npx create-react-app my-app
+       cd my-app
+       npm start
 
 
 ### Usage
