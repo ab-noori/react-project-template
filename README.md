@@ -22,7 +22,6 @@
 -->
 
 > # React Project Template
-### Desktop view shoots for this project:
 
 | Desktop Veiw Representation|
 |---------------------------------------|
